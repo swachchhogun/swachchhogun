@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**swachchhogun/swachchhogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👋 Hi, I'm swachchho
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 MSc Statistics Student
+💻 Aspiring Data Scientist / Developer
+📊 Interested in Data Analysis, Machine Learning & AI
+🚀 Building projects to explore data and automation
+
+## 🧠 About Me
+
+🎓 Background in Mathematics
+
+📊 Currently studying Statistics
+
+💡 Interested in Data Science, ML, and AI tools
+
+⚡ I enjoy building data analysis tools and dashboards
+
+🌱 Currently learning Machine Learning & Database Systems
+
+🚀 Projects
+📊 DataLens — Smart Data Explorer
+
+Upload any CSV and instantly get charts, insights, and a report.
+
+🔗 Live Demo
+https://smart-data-explorer-mgappjprtpxzeqvn69pew65.streamlit.app
+
+Features
+
+Automatic charts
+
+AI-generated insights
+
+Clean dashboard
+
+Exportable reports
+
+## 🛠 Tech Stack
+Languages
+Python
+SQL
+R
+## Tools
+Pandas
+NumPy
+Matplotlib
+Streamlit
+Git
+## Databases
+MySQL
+PostgreSQL
